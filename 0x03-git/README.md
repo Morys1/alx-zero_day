@@ -1,1 +1,1 @@
-My first real directory for git
+Diectory for git projects
